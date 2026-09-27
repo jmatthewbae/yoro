@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use YORO, please cite it as below."
+title: "YORO: Youth Online Risk Observatory"
+type: software
+version: 0.1.0
+date-released: 2026-09-27
+license: MIT
+authors:
+  - name: "YORO Project"
+keywords:
+  - youth
+  - internet use
+  - online behavior
+  - sentiment analysis
